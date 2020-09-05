@@ -1,2 +1,2 @@
 # stock_management
-personal stock management 
+Personal stock management 
