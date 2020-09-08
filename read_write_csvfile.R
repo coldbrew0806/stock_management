@@ -15,7 +15,7 @@ fpath = "C:/Users/coldbrew/TSLA.csv"
 #read csvfile
 dat = read.csv(fpath)
 
-#confirm data
+#confirm dataframe
 print(dat)
 
 # write csv - default
