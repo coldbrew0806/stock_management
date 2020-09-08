@@ -1,4 +1,4 @@
-#download TSLA.csv
+# Download TSLA.csv
 # https://finance.yahoo.com/quote/TSLA/history?p=TSLA
 # Click Historical Data Tap - Download
 
