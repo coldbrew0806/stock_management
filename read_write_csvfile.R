@@ -25,3 +25,4 @@ write.csv(dat, outpath)
 # write csv - without row.names 
 outpath = "C:/Users/coldbrew/TSLA2.csv"
 write.csv(dat, outpath, row.names = FALSE)
+
