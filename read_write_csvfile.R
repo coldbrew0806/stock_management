@@ -7,8 +7,8 @@
 
 # my blog 
 # https://curious-coldbrew.blogspot.com/2020/09/r-basic-how-to-read-and-write-csv-file.html
-
 ###########################################
+
 # csvfile path ( \ => / ) 
 fpath = "C:/Users/coldbrew/TSLA.csv"
 
