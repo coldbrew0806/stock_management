@@ -1,3 +1,6 @@
+# How to read and write csvfile in R
+# The data in code is daily historical stock prices of Tsla (form Yahoo Finance Historical data)
+
 # Download TSLA.csv
 # https://finance.yahoo.com/quote/TSLA/history?p=TSLA
 # Click Historical Data Tap - Download
@@ -18,6 +21,3 @@ write.csv(dat, outpath)
 # write csv - without row.names 
 outpath = "C:/Users/geocom/coldbrew/TSLA2.csv"
 write.csv(dat, outpath, row.names = FALSE)
-
-
-
